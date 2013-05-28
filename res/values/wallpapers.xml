@@ -16,19 +16,19 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>wallpaper_rZ_arch_1</item>
-        <item>wallpaper_rZ_codeshower</item>
-        <item>wallpaper_rZ_doctorseleven</item>
-        <item>wallpaper_rZ_drwho</item>
-        <item>wallpaper_rZ_nukethewhales</item>
-        <item>wallpaper_rZ_plus</item>
-        <item>wallpaper_rZ_spraycan</item>
-        <item>wallpaper_rZ_squares</item>
-        <item>wallpaper_rZ_tetris</item>
+        <item>wallpaper_rz_arch</item>
+        <item>wallpaper_rz_codeshower</item>
+        <item>wallpaper_rz_doctorseleven</item>
+        <item>wallpaper_rz_drwho</item>
+        <item>wallpaper_rz_nukethewhales</item>
+        <item>wallpaper_rz_plus</item>
+        <item>wallpaper_rz_spraycan</item>
+        <item>wallpaper_rz_squares</item>
+        <item>wallpaper_rz_tetris</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>rZ Arch1</item>
+        <item>rZ Arch</item>
         <item>rZ Code Shower</item>
         <item>rZ Doctors Eleven</item>
         <item>rZ Doctor Who</item>
